@@ -1,0 +1,31 @@
+.col-2 {
+  color: white;
+  height: 10vh !important;
+  border: 1px solid gray;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 1.5px;
+}
+
+.active {
+  background-color: grey;
+  border: 1px solid white;
+}
+
+.fontRed {
+  color: red;
+}
+
+.fontBlue {
+  color: blue;
+}
+
+.container {
+  color: white;
+  margin-top: 10px !important;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center !important;
+}
